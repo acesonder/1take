@@ -1061,3 +1061,37 @@ End on encouragement:
 ==== OF REFLECTIVE QUESTIONS
 
 
+## Instructions on How to Use the Digital Consent Form
+
+### Form Submission and Data Handling
+
+1. **Access the Consent Form**: Navigate to the `consent_form.php` file to access the digital consent form.
+2. **Fill Out the Form**: Complete the required fields (First Name, Last Name, Date of Birth) and any optional fields as desired.
+3. **Submit the Form**: Click the "Submit" button to send the form data to the server.
+4. **Data Storage**: The form data will be securely stored in the SQL server.
+
+### Progress Indicator and Save & Resume Features
+
+1. **Progress Bar**: A progress bar at the top of the form will visually indicate your progress through the different sections.
+2. **Save & Resume**: You can save your progress and resume later if needed. Your data will be stored securely and can be retrieved when you return to complete the form.
+
+### Emergency Contact Button and Live Chat Support
+
+1. **Emergency Contact Button**: A prominently displayed emergency contact button is available for users in crisis situations. Clicking this button will connect you to live chat support.
+2. **Live Chat Support**: The live chat support service provides immediate assistance and guidance in crisis situations.
+
+### Language Toggle Button for Multilingual Support
+
+1. **Language Toggle**: A language toggle button is available on the consent form, allowing you to switch between different languages. This ensures accessibility for a diverse user base.
+
+### User Authentication with Roles and Permissions for Secure Access
+
+1. **User Roles and Permissions**: The admin dashboard includes a user roles and permissions system to control access to different parts of the dashboard. Only authorized personnel can view or modify sensitive information.
+2. **User Management**: Administrators can create, edit, and delete user accounts, as well as assign roles and permissions to each user.
+
+### Admin Dashboard Improvements
+
+1. **Improved User Management**: The admin dashboard now includes enhanced user management features, such as user roles and permissions, activity logs, and automated notifications.
+2. **Multilingual Support**: A language toggle button is available on the admin dashboard to allow administrators to switch between different languages.
+3. **Live Chat Support**: Live chat support is available for administrators to get immediate assistance with any issues or questions.
+4. **Responsive Design**: The admin dashboard is mobile-responsive, allowing administrators to access and manage data from various devices.
